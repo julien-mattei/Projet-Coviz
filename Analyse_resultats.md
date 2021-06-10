@@ -243,6 +243,12 @@ Grâce à un tri effectué sur Excel sur nos données en italiens, on recense 11
 |   5.03.2021    |                     Vacunación contra el COVID-19 en Uruguay                        |                        Vaccination contre le covid-19 en Uruguay    
 |   2.04.2021    |               Impacto de la pandemia de COVID-19 en los hospitales                  |                    Impact de la pandémie de COVID-19 sur les hôpitaux 
 
+Sujet géographique par ordre d'apparition : 
+
+Bonaire, Pologne, Amérique du Nord, Chili, Reino Unidos, Etat fédéral Micronésie, Slovaquie, Equateur, Argentine, Pérou, Inde, Espagne, Italie, Israël, Bolivie, Colombie, Philippines, Roumanie, Madagascar, Paraguay, Philippines, Australie, Slovénie, Canada, Belgique, Ukraine, Paraguay, Etats-Unis, Bolivie, Venezuela, Salvador, Camara, Cuzco, Tacna, Argentine, Jordanie, Palestine, Honduras, Costa Rica, France, Lituanie, Monténégro, Pradesh 
+
+Premier article :  19 janvier 2020- Pandemia de COVID-19 
+Dernier article : 15 mai 2021- Pandemia de COVID-19 en Andhra Pradesh 
 
 ## Analyse des données en roumain
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQtwN1PHhHKjeDJF-5aoTJpRQky4opAzApYsWLk6CzJA7pldkp9UTVtt759iKOYWK5rnZSNG5Jg5w9o/pubhtml?widget=true&amp;headers=false"></iframe>
@@ -259,3 +265,5 @@ Grâce à un tri effectué sur Excel sur nos données en italiens, on recense 11
 |    Date     |              Titre              |             Traduction              |
 |:-----------:|:-------------------------------:|:-----------------------------------:|
 | 27.02.2021  | Pandemia de COVID-19 în Belgia  | Pandémie de COVID-19 en Belgique    |
+
+Sujet géographique par ordre d'apparition : Transnistrie, Fransta, Russie, Allemagne, Bulgarie, Australie, Etats-Unis, Grèce, Serbie, Hongrie, Italie, Iran, Roumanie, Moldavie, Turquie, Espagne, Danemark, Chine, Ethiopie. 
