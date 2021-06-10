@@ -241,7 +241,7 @@ fenetre.mainloop()
 Voici un exemple de résultats du scrapping dans un tableau (au format csv quand on le télécharge).
 
 
-|Titre                                                                                                                            |Dates            |Langues  |
+|Titre                                                                                                                                 |Dates               |Langues    |
 |--------------------------------------------------------------------------------------------------------------------------------------|--------------------|-----------|
 |Covid-19                                                                                                                              |2020-02-14T00:00:00Z|Norvégien  |
 |Covid-19-vaksiner                                                                                                                     |2020-08-10T00:00:00Z|Norvégien  |
@@ -290,4 +290,5 @@ Voici un exemple de résultats du scrapping dans un tableau (au format csv quand
 
 
 
-<- [Accueil](/readme.md) ------ [Les outils de la dataviz](/Les_outils_dataviz.md) ->
+| [Accueil](/README.md) |                                                                                                  | [Les outils de la dataviz](/Les_outils_dataviz.md) |
+|-----------------------|--------------------------------------------------------------------------------------------------|----------------------------------------------------|
