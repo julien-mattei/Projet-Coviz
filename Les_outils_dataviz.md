@@ -47,3 +47,9 @@ Les champs disponibles :
 Cet outil peut également être utilisé avec un fichier JSON et le rendu des visualisations peut être amélioré avec du CSS. 
 
 ### Matplotlib
+
+
+
+
+| [Constitution du corpus](/Constitution_du_corpus.md) |                                                            | [Dataviz et analyse des réusltats](/Analyse_resultats.md) |
+|------------------------------------------------------|------------------------------------------------------------|-----------------------------------------------------------|
