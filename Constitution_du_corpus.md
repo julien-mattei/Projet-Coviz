@@ -290,5 +290,5 @@ Voici un exemple de résultats du scrapping dans un tableau (au format csv quand
 
 
 
-| [Accueil](/README.md) |                                                                                                  | [Les outils de la dataviz](/Les_outils_dataviz.md) |
-|-----------------------|--------------------------------------------------------------------------------------------------|----------------------------------------------------|
+| [Accueil](/README.md) |                                                                                     | [Les outils de la dataviz](/Les_outils_dataviz.md) |
+|----------|--------------------------------------------------------------------------------------------------|---------------------------|
