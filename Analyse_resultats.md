@@ -244,3 +244,18 @@ Grâce à un tri effectué sur Excel sur nos données en italiens, on recense 11
 |   2.04.2021    |               Impacto de la pandemia de COVID-19 en los hospitales                  |                    Impact de la pandémie de COVID-19 sur les hôpitaux 
 
 
+## Analyse des données en roumain
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQtwN1PHhHKjeDJF-5aoTJpRQky4opAzApYsWLk6CzJA7pldkp9UTVtt759iKOYWK5rnZSNG5Jg5w9o/pubhtml?widget=true&amp;headers=false"></iframe>
+
+-Nombre d'articles publiés : 32 
+-Un résultat en 2021 
+-Lourde apparition pour le mois d'avril 
+-Publication accentuée sur la zone européenne en globalité 
+-Une seule publication en janvier 
+-Trentaine de publication en 2020 
+-Articles le plus publiés dans différents pays : Evolucion COVID-19 în Romania= Belgique, Elveia, Transnistrie, France, Russie, Allemagne, Bulgarie, Australie, Etats-Unis, -Grèce, Serbie, Hongrie, Italie, Iran, Roumanie, Moldavie, Turquie, Espagne, Danemark, Chine, Ethiopie, 
+-Vaccin anti-COVID-19; Medicamente împotriva COVID-19; Diagnosticare COVID-19; Decese provocate de pandemia de coronaviroz? (COVID-19) în România; Dezinformri privind pandemia de coronaviroz? (COVID-19);Evolucia COVID-19 în România ne sont publiés qu'une seule fois. 
+
+|    Date     |              Titre              |             Traduction              |
+|:-----------:|:-------------------------------:|:-----------------------------------:|
+| 27.02.2021  | Pandemia de COVID-19 în Belgia  | Pandémie de COVID-19 en Belgique    |
