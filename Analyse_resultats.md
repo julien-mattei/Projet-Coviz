@@ -15,8 +15,6 @@ Environ 65-70% des articles "Pandémie de Covid-19 dans tel pays"
 
 Sujet géographique par ordre d'apparition : Iran, Corée du sud, Italie, France, Suisse, Allemagne, Australie, Belgique, Espagne, état unis, royaume unis, chine, Algérie, Luxembourg, Confinement en Italie 
 
-Résultats 2021
-
 |        Date       |                                Titre                                |
 |:-----------------:|:-------------------------------------------------------------------:|
 |  January 5, 2021  |     Programme de vaccination contre la Covid-19 du Royaume-Uni      |
@@ -39,7 +37,7 @@ Résultats 2021
 |  April 24, 2021   |               Politique vaccinale contre la Covid-19                |
 |    May 7, 2021    | Impact de la pandémie de Covid-19 sur la télévision aux États-Unis  |
 
-En comparaison à l’Allemagne, la situation en Turquie a été traité le 23 mars en Français, c'est à dire plus tot. On constate néanmoins que le traitement de l’Algérie apparait assez tôt dans les articles Français. Les pays francophones eux-mêmes n’ont pas été traité en priorité par les auteurs francophones. 
+En comparaison à l’Allemagne, la situation en Turquie a été traité le 23 mars en Français. On constate néanmoins que le traitement de l’Algérie apparait assez tôt dans les articles Français. Les pays francophones eux-mêmes n’ont pas été traité en priorité par les auteurs francophones. 
 
 De septembre à octobre, on voit un intérêt tout particulier pour le Canada Francophone et le Canada en général. 
 
@@ -61,19 +59,8 @@ Premier article : 14 janvier 2020 - Covid 19
 
 Dernier article : 5 mai 2021 : COVID-19-Schutzmaßnahmen-Ausnahmenverordnung 
 
+
 Sujet géographique par ordre d'apparition : Chine, Taiwan, Chili dès janvier, puis Italie le 23 février (isolé), puis Allemagne et les Bundeslander, Corée du sud, suisse, Liechtenstein, Autriche, Ukraine, Island, France, Monaco, Estonie, Vanuatu, Comores, Lesotho, Iran, Cameroun, Togo, Espagne, etc. 
-
-Résultats 2021 :
-
-
-|        Date        |                              Titre                             |                                        Traduction                                       |
-|:------------------:|:--------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|
-| February 17, 2021  | Zero Covid                                                     | Zero Covid                                                                              |
-| February 20, 2021  | Chronik der COVID-19-Pandemie in den Vereinigten Staaten 2020  | Chronique de la pandémie de COVID-19 de 2020 aux Etats-Unis.                            |
-| February 20, 2021  | Schulpräsenzpflicht in der COVID-19-Pandemie                   | Exigences en matière de fréquentation scolaire dans le cadre de la pandémie de COVID 19 |
-| April 10, 2021     | Software zur Bekämpfung der COVID-19-Pandemie                  | Utilisation et développement logiciel pour l'atténuation de la pandémie de COVID-19     |
-| April 29, 2021     | COVID-19-Pandemie in Europa                                    | Covid 19 en Europe                                                                      |
-| May 5, 2021        | COVID-19-Schutzmaßnahmen-Ausnahmenverordnung                   | Exception aux mesures de protection contre le Covid 19                                  |
 
 On constate que la situation en Turquie a été traité le 27 mars 2020, vers le milieu du pic d’activité dans la publication des articles. L’hypothèse du traitement des pays possédant des liens proches ne se vérifie pas ici : on peut supposer que la proximité géographique de la crise et l’intensité des crises selon pays ont motivés la rédaction des articles (Italie, premier pays européen traité) 
 
@@ -93,15 +80,6 @@ Dernier résultat le 28 avril, après deux mois d’inactivité : La pandémie
 Un léger pic entre mars et avril, mais beaucoup moins conséquent que sur les autres langues 
 
 Sujet Géographique par ordre d’apparition : Pologne, Italie, Chine, Kosovo, Espagne, Kirghizistan, Allemagne, Vatican, Russie, Etats-Unis, France, Royaume-Uni, Slovaquie, Canada, Pandémie de COVID-19 en Suisse, Hollande, Australie, Danemark, Iran, Israël, République démocratique du Congo, « Pandémie de COVID-19 par pays », Brésil, Mongolie, Inde, Ouzbékistan, Luxembourg, Mexique, Asie, Belgique, Malaisie, Indonésie, Philippine, Nouvelle Zélande, Madagascar, Ukraine, Paraguay 
-
-Résultat 2021 :
-|       Date       |                   Titre                  |                 Traduction                |
-|:----------------:|:----------------------------------------:|:-----------------------------------------:|
-| January 2, 2021  | Pandemia COVID-19 w Nowej Zelandii       | Pandémie de Covid-19 en Nouvelle Zélande  |
-| January 4, 2021  | Szczepienia przeciw COVID-19 w Polsce    | Vaccination contre le COVID-19 en Pologne |
-| February 5, 2021 | Pandemia COVID-19 na Madagaskarze        | Pandémie de Covid 19 au Madagascar        |
-| March 1, 2021    | Szczepienia przeciw COVID-19 na Ukrainie | Vaccination contre le COVID-19 en Pologne |
-| April 28, 2021   | Pandemia COVID-19 w Paragwaju            | Pandémie de Covid-19 au Paraguay          |
 
 Le polonais n’étant parlé que dans un pays, le nombre de résultat est bien plus réduit. Les sujets restent très réduits « vaccination » « traitement » ; à coté un certain nombre de pays a été traité : proportionnellement au nombre d’article, les autres pays ont été plus traité que la France ou même l’Allemagne. 
 
@@ -241,4 +219,28 @@ En ce qui concerne les données en italien, une grande partie des articles ont �
 
 
 Grâce à un tri effectué sur Excel sur nos données en italiens, on recense 11 articles en italien rédigés en 2021. La plupart des articles concernent la pandémie dans un pays ou une ville. L’article le plus récent que l’on trouve est celui qui date de mars 2021, concernant les statistiques de la pandémie du covid-19 en Italie. Il faut savoir que l’Italie a fait parti des pays européens les plus touché par le covid-19. Le premier cas de covid a été détecté à Rome le 30 janvier 2020 puis en Lombardie avec 16 cas confirmé. Les statistiques de 2021 permettent sûrement de faire un bilan de la situation sanitaire en Italie afin d’avoir un regard général sur la pandémie et surtout savoir comment gérer la situation selon le nombre de cas.
+
+
+## Analyse des données en espagnol
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTUDkYbOqpNCRdQErdMnUTwKFVg8MlRDPzZmdzUB5AcTMLpVMAJ-qNFYNBynR4DIQYTzQlxNwmIRWmn/pubhtml?widget=true&amp;headers=false"></iframe>
+
+-nomnre d'articles publiés: 451 résultats
+-lourde apparition entre Janvier, février, mars, avril, mai et juin
+- Faible publication en europe (5)
+-7 articles dans le continent africain
+- Forte publication des pays hispanniques surtout dans la zone Am Sud et l'Amérique Latine
+-articles publiées dans différents pays: Vacunación contra la COVID-19= chilie, Reino Unido,Euateur,Péru, Inde, Espagne, Italie, Isreal,Colombie, Phillipines, Roumanie, paraguay, Australie, Canada, Etats Unis, Bolivie, uraugay, Venezuala, Salvador,Palestine, Jordanie, France   
+  Pandemia de COVID-19= Amérique du Nord, Etats Federal Micronesie, Argentine,Bolivie, Madagascar,Slovenie, Palestine, Jordanie, Paraguay, France, Guatemala
+-Les autres publications sont uniques au pays concernés et ne sont donc pas publiés dans d'autres pays
+
+|      Date      |                                  Titre en espagnol                                  |                                   Traduction en français             
+|:--------------:|:-----------------------------------------------------------------------------------:|:--------------------------------------------------------------------|
+|   9.01.2021    |                               Moderna COVID-19 vaccin                               |                                   Vaccin covid-19 moderna             
+|   5.02.2021    |            Confinamiento por la pandemia de COVID-19 en Estados Unidos              |                   Confinement dû à la pandémie de COVID-19 aux États-
+|   5.02.2021    |                          Pandemia COVID-19 na Madagaskarz                           |                              Pandémie de COVID-19 à Madagascar       
+|  23.02.2021    | Denuncia contra Larreta Quirós por privatizar la vacunación contra la COVID-19..    | Plainte contre Larreta et Quirós pour privatisation de la vaccination
+|   3.03.2021    |               Escándalos de vacunación irregular contra la COVID-19                 |                    Scandales de vaccination irrégulière contre COVID-
+|   5.03.2021    |                     Vacunación contra el COVID-19 en Uruguay                        |                        Vaccination contre le covid-19 en Uruguay    
+|   2.04.2021    |               Impacto de la pandemia de COVID-19 en los hospitales                  |                    Impact de la pandémie de COVID-19 sur les hôpitaux 
+
 
